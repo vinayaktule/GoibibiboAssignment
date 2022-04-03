@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-27T09:29:30 IST" name="Default suite" finished-at="2022-03-27T09:29:30 IST" duration-ms="16">
+    <groups>
+    </groups>
+    <test started-at="2022-03-27T09:29:30 IST" name="Default test" finished-at="2022-03-27T09:29:30 IST" duration-ms="16">
+      <class name="practice.TestNGFlow">
+        <test-method is-config="true" signature="setup()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="setup" finished-at="2022-03-27T09:29:30 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="startBrowser" finished-at="2022-03-27T09:29:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="login" finished-at="2022-03-27T09:29:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="setMethodConfig()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="setMethodConfig" finished-at="2022-03-27T09:29:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setMethodConfig -->
+        <test-method signature="verifyTitle()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="verifyTitle" finished-at="2022-03-27T09:29:30 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearMethodConfig()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="tearMethodConfig" finished-at="2022-03-27T09:29:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearMethodConfig -->
+        <test-method is-config="true" signature="setMethodConfig()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="setMethodConfig" finished-at="2022-03-27T09:29:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setMethodConfig -->
+        <test-method signature="verifyURL()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="verifyURL" finished-at="2022-03-27T09:29:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyURL -->
+        <test-method is-config="true" signature="tearMethodConfig()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="tearMethodConfig" finished-at="2022-03-27T09:29:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearMethodConfig -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="logout" finished-at="2022-03-27T09:29:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="closeBrowser" finished-at="2022-03-27T09:29:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:practice.TestNGFlow@294425a7]" started-at="2022-03-27T09:29:30 IST" name="teardown" finished-at="2022-03-27T09:29:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- practice.TestNGFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
